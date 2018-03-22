@@ -7,7 +7,7 @@ spring:
         git:
           password:
           searchPaths: respo
-          uri: https://github.com/forezp/SpringcloudConfig/
+          uri: https://github.com/philippzhang/SpringCloudLearning.git
           username:
       label: master
   application:
